@@ -1,0 +1,66 @@
+{
+  "name": "app1",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build --prod",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+  },
+  "engines": {
+    "node": "6.11.1",
+    "npm": "3.10.9"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "^5.2.11",
+    "@angular/common": "^5.2.11",
+    "@angular/compiler": "^5.2.11",
+    "@angular/core": "^5.2.11",
+    "@angular/forms": "^5.2.11",
+    "@angular/http": "^5.2.11",
+    "@angular/platform-browser": "^5.2.11",
+    "@angular/platform-browser-dynamic": "^5.2.11",
+    "@angular/router": "^5.2.11",
+    "bootstrap": "^4.1.1",
+    "core-js": "^2.5.7",
+    "express": "^4.16.3",
+    "rxjs": "^5.5.11",
+    "zone.js": "^0.8.26"
+  },
+  "devDependencies": {
+    "@angular/cli": "1.6.5",
+    "@angular/compiler-cli": "^5.2.11",
+    "@angular/language-service": "^5.2.11",
+    "@types/jasmine": "^2.8.7",
+    "@types/jasminewd2": "~2.0.2",
+    "@types/node": "^6.0.111",
+    "codelyzer": "^4.3.0",
+    "jasmine-core": "~2.8.0",
+    "jasmine-spec-reporter": "~4.2.1",
+    "karma": "^2.0.2",
+    "karma-chrome-launcher": "~2.2.0",
+    "karma-cli": "~1.0.1",
+    "karma-coverage-istanbul-reporter": "^1.4.3",
+    "karma-jasmine": "^1.1.2",
+    "karma-jasmine-html-reporter": "^0.2.2",
+    "protractor": "~5.1.2",
+    "ts-node": "~4.1.0",
+    "tslint": "~5.9.1",
+    "typescript": "~2.5.3"
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SidneyyCesar/aprendendoingles.github.io.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/SidneyyCesar/aprendendoingles.github.io/issues"
+  },
+  "homepage": "https://github.com/SidneyyCesar/aprendendoingles.github.io#readme"
+}
