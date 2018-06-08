@@ -4,4 +4,3 @@ Este treinamento possui 3 Apps:<br><br>
 1 - Aprendendo Inglês <br>
 2 - Carrinho de Compras<br>
 3 - Instagram Clone </h5>
-<img src="https://cdn-images-1.medium.com/max/1600/1*grk7btEn0OJEQRKgG2Qs2A.png" href="#" alt="Angular" />
